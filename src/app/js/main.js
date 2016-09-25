@@ -1,4 +1,4 @@
-define(['jquery','jsrasign','CryptoJS'],function($,jsrasign,CryptoJS){
+require(['jquery','jsrasign','CryptoJS'],function($,jsrasign,CryptoJS){
 	$("document").ready(function(){
 		$('.container-main').append('<ul></ul>')
 		$('ul').append('<li>jQuery works!</li>');
