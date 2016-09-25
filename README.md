@@ -5,4 +5,4 @@
 - bower
 
 ##run:
-`build.sh`
+`./build.sh`
